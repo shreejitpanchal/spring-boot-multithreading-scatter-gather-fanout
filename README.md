@@ -1,4 +1,4 @@
-## Spring MultiThreading Demo using Completable Future
+## Spring MultiThreading Demo using Completable Future using REST HTTP interface
 
 ## Author : Shreejit Panchal
 
